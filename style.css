@@ -1,0 +1,24 @@
+* {
+    background-color: #0e0e0e;
+    font-family: 'Courier New', Courier, monospace;
+    color: #0ab40a;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+}
+h2 {
+    font-size: 2em;
+    text-decoration: dashed underline;
+}
+h3 {
+    font-size: 1.4em;
+    text-decoration: dotted underline;
+    margin-left: 90px;
+}
+article {
+    margin-left: 130px;
+}
